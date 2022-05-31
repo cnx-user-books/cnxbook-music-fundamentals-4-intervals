@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Quickly Recognizing Simple Intervals</title>
+  <metadata>
+  <md:content-id>m25138</md:content-id><md:title>Quickly Recognizing Simple Intervals</md:title>
+  <md:abstract>Methods to rapidly recognize simple intervals in music.</md:abstract>
+  <md:uuid>51c521b7-9f7f-4a31-a106-fc82ebb06517</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1171990252120">Musicians need to be able to quickly recognize intervals in printed music. Counting intervals by half steps is often too slow, particularly with intervals greater than thirds. This module introduces a method that can greatly increase facility with interval recognition. </para>
+    <para id="id1171990730414">(This module assumes that you understand how to assign interval numbers and quality. Please see “Interval” by Katherine Schmidt-Jones, module <link document="m10867">m10867</link>, for further reference) </para>
+    <para id="id8411212">A thorough knowledge of major scales is central to rapid identification of intervals. The quality of the interval between each scale step and the tonic is either major or perfect (Figure 1)</para>
+    <figure id="id4504099">
+      <media id="id4504099_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1.png" id="id4504099__onlineimage" height="115" width="650"/>
+      </media>
+    </figure>
+    <para id="id4261871">In particular, intervals up to a perfect 5<sup>th</sup> can be quickly recognized through knowledge of the major scales. Scale steps are used as quick reference points with which to compare the intervals. Let’s look at some examples to explain how this works.</para>
+    <para id="id5980500">In Figure 2, consider the lowest pitch the tonic note of B major. Knowing that B major has a C# in the scale indicates to us that C natural is not a major 2<sup>nd</sup> above B. Since C is a half step below C# the interval is therefore a minor 2<sup>nd</sup>.</para>
+    <figure id="id8626121">
+      <media id="id8626121_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2.png" id="id8626121__onlineimage" height="132" width="132"/>
+      </media>
+    </figure>
+    <para id="id1171993618460">In Figure 3, a D major scale has two sharps, one of which is F#. Since F natural is half a step below F# it must be a minor third above D.</para>
+    <figure id="id1171996020357">
+      <media id="id1171996020357_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3.png" id="id1171996020357__onlineimage" height="135" width="133"/>
+      </media>
+    </figure>
+    <para id="id1171990734802">In Figure 4, A major has F#, C#, and G# but no D#. D natural is a perfect 4<sup>th</sup> above A; therefore D# must be an augmented 4<sup>th</sup> above A. </para>
+    <figure id="id1171994471504">
+      <media id="id1171994471504_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4.png" id="id1171994471504__onlineimage" height="138" width="121"/>
+      </media>
+    </figure>
+    <para id="id1171994473879">In Figure 5, F major has one flat-Bb. Bb is therefore a perfect fourth above F.</para>
+    <figure id="id7978111">
+      <media id="id7978111_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5.png" id="id7978111__onlineimage" height="139" width="163"/>
+      </media>
+    </figure>
+    <para id="id5001678">In Figure 6, a B major scale requires an F#. F natural, being half a step lower, is a diminished fifth above B.</para>
+    <figure id="id1171995001769">
+      <media id="id1171995001769_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics6.png" id="id1171995001769__onlineimage" height="157" width="135"/>
+      </media>
+    </figure>
+    <para id="id1631841">
+      <emphasis effect="bold">Other “Tricks’</emphasis>
+    </para>
+    <para id="id1171996104776">I find classifying intervals of sixths or sevenths more problematic with scales. I often double check my answers by inverting the intervals. For instance in Figure 7, it is not easy for me to quickly recognize the interval D# to B, but B to D# can be quickly recognized. Rules of inversion indicate that a major 3<sup>rd</sup> inverts to a minor 6<sup>th</sup>.</para>
+    <para id="id4781568">
+      <figure id="id1171990505379">
+        <media id="id1171990505379_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7.png" id="id1171990505379__onlineimage" height="142" width="308"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id8290966">Likewise the seventh in Figure 8 is easier to recognize as a second:</para>
+    <figure id="id1171990244578">
+      <media id="id1171990244578_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics8.png" id="id1171990244578__onlineimage" height="131" width="325"/>
+      </media>
+    </figure>
+    <para id="id1171994862360">Figure 8 illustrates a further “trick.” Since both notes are preceded by sharps, one can ignore the sharps and consider the interval to be the same as E to F. This is easier to recognize E to F as a minor second than E# to F#. One may do the same operation if both notes bear flats; consider the interval without the flats present.</para>
+  </content>
+</document>
